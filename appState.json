@@ -1,0 +1,92 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "ba3bf78a-6d74-441a-aeb7-6320192383bb": {
+        "id": "ba3bf78a-6d74-441a-aeb7-6320192383bb",
+        "parent": null,
+        "name": "kgcppyaug4.py",
+        "type": "PYTHON_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "kgcppyaug4.py",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "python37",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0,
+          "name": "kgcppyaug4"
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ]
+      },
+      "3c9391a9-00c3-47eb-b517-6962a52ed399": {
+        "id": "3c9391a9-00c3-47eb-b517-6962a52ed399",
+        "parent": null,
+        "name": "index.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "index.js"
+      },
+      "8940e5cd-4089-4d4a-bb19-4c5170221082": {
+        "id": "8940e5cd-4089-4d4a-bb19-4c5170221082",
+        "parent": null,
+        "name": "main.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "main.py"
+      }
+    },
+    "openFiles": [
+      "ba3bf78a-6d74-441a-aeb7-6320192383bb"
+    ],
+    "currentFileId": "ba3bf78a-6d74-441a-aeb7-6320192383bb",
+    "resources": {
+      "http-trigger": {
+        "name": "http-trigger",
+        "type": "http-trigger",
+        "config": {}
+      }
+    },
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.4.1.4",
+    "projectName": "kgcppyaug4",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east1",
+    "platform": "GCP",
+    "language": "python",
+    "platformRegions": {},
+    "lastSave": 1596532868563
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "kgcppyaug4",
+      "url": "https://github.com/Kumudikatest/kgcppyaug4"
+    }
+  }
+}
